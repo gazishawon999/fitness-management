@@ -65,5 +65,84 @@ Fitness Management is a modern web application designed to help users plan worko
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/gazishawon999/fitness-management
+git clone https://github.com/gazishawon999/fitness-management.git
 ```
+
+### Navigate to the Project Directory
+
+```bash
+cd fitness-management
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run the Development Server
+
+```bash
+npm run dev
+```
+
+You can also use:
+
+```bash
+yarn dev
+```
+
+```bash
+pnpm dev
+```
+
+```bash
+bun dev
+```
+
+### Open in Browser
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+├── app/
+├── components/
+├── context/
+├── public/
+└── styles/
+```
+
+---
+
+## 🎯 Project Objective
+
+The goal of this project is to provide a simple and efficient platform where users can organize workouts, monitor fitness activities, and maintain a healthier lifestyle through effective workout planning and progress tracking.
+
+---
+
+## 🔗 Repository
+
+```text
+https://github.com/gazishawon999/fitness-management
+```
+
+---
+
+## 👨‍💻 Developer
+
+```text
+Shawon Gazi
+CSE Student
+Full-Stack Web Development Learner
+```
+
+---
+
+### Built with ❤️ using Next.js
